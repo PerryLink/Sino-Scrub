@@ -1,4 +1,5 @@
 # sino-scrub
+[![Gitee](https://img.shields.io/badge/Gitee-mirror-c71d23?logo=gitee)](https://gitee.com/perrylink/sino-scrub)
 
 > Millisecond-level cleaning of cultural taboos and sensitive words in AI-generated text
 
