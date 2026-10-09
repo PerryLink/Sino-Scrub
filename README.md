@@ -50,13 +50,15 @@ Even the most powerful LLMs can generate problematic translations like "execute 
 ### Installation / 安装
 
 ```bash
-pip install sino-scrub
+pip install "git+https://github.com/PerryLink/Sino-Scrub.git"
+# （PyPI 未发布，源码直装）
 ```
 
 Or using Poetry / 或使用 Poetry:
 
 ```bash
-poetry add sino-scrub
+poetry add git+https://github.com/PerryLink/Sino-Scrub.git
+# （PyPI 未发布，源码直装）
 ```
 
 ### Basic Usage / 基础用法
